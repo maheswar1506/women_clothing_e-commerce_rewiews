@@ -1,0 +1,12 @@
+From Notebook_1 we get the following inferences:
+
+1. Logistic Regression   : 93.04%
+2. KNeighborsClassifier  : 92.45%
+3. DecisionTreeClassifier: 91.23%
+4. Naive Bayes           : 89.58%
+
+lOGISTIC REGRESSION works best for our data set followed by KNeighborsClassifier.
+
+From Notebook_2 we get the following inferences:
+
+Model with SVM using hyperparameters tuning we get the efficiency upto 93.43
